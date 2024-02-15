@@ -12,6 +12,7 @@ echo "Penumbra version is: $PENUMBRA_VERSION."
 echo "Pcli version is: $PCLI_VERSION."
 echo "Cometbft version is: $COMETBFT_VERSION."
 
+sudo apt install bc
 
 # Check Ubuntu Version
 UBUNTU_VERSION=$(lsb_release -sr)
