@@ -4,9 +4,9 @@
 # Penumbra Version: v0.67.0
 # Go Version: 1.21.1
 # Cometbft Version: v0.37.2
-PENUMBRA_VERSION = v0.67.1
-PCLI_VERSION = 1.21.1
-COMETBFT_VERSION = v0.37.2
+PENUMBRA_VERSION=v0.67.1
+PCLI_VERSION=1.21.1
+COMETBFT_VERSION=v0.37.2
 
 echo "Penumbra version is: $PENUMBRA_VERSION."
 echo "Pcli version is: $PCLI_VERSION."
