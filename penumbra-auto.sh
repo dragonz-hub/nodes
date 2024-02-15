@@ -8,6 +8,10 @@ PENUMBRA_VERSION = v0.67.1
 PCLI_VERSION = 1.21.1
 COMETBFT_VERSION = v0.37.2
 
+echo "Penumbra version is: $PENUMBRA_VERSION."
+echo "Pcli version is: $PCLI_VERSION."
+echo "Cometbft version is: $COMETBFT_VERSION."
+
 
 # Check Ubuntu Version
 UBUNTU_VERSION=$(lsb_release -sr)
